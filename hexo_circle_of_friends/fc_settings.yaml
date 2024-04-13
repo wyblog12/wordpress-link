@@ -33,7 +33,7 @@ SETTINGS_FRIENDS_LINKS: {
     json_api: "",
     list: [
         # 示例1：
-        ["小N同学", "https://www.imcharon.com", "https://public.cdn.nesxc.com/avatar.jpg"],
+        ["小N同学", "https://www.imcharon.com", "https://anxkj1.s3.bitiful.net/link/tupian/bedf33e068e4abe0beceb1d1ab00f99f-150x150.jpg"],
         ["瀚星阁", "https://www.anxkj.top", "https://anxkj1.s3.bitiful.net/2024/03/d5177f208d35bba8954e1dfd789240b4.svg"],
         ["安小歪blog", "https://hexo.shangskr.top", "https://hexo.shangskr.top/img/favicon.png"],
         ["清羽飞扬", "https://blog.qyliu.top/", "https://cdn.qyliu.top/i/2024/03/21/65fc56832e37d.png"],
