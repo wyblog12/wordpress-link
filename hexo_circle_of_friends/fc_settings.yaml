@@ -35,8 +35,10 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         # 示例1：
         ["小N同学", "https://www.imcharon.com", "https://public.cdn.nesxc.com/avatar.jpg"],
-        ["安凝雪科技", "https://www.anxkj.top", "https://www.anxkj.top/wp-content/uploads/2023/12/1702785694-c4ce86c69b4e15c246cd8eaf35db1c71-150x150.jpg"],
+        ["瀚星阁", "https://www.anxkj.top", "https://anxkj1.s3.bitiful.net/2024/03/d5177f208d35bba8954e1dfd789240b4.svg"],
         ["安小歪blog", "https://hexo.shangskr.top", "https://hexo.shangskr.top/img/favicon.png"],
+        ["清羽飞扬", "https://blog.qyliu.top/", "https://cdn.qyliu.top/i/2024/03/21/65fc56832e37d.png"],
+        ["酷小呵", "https://www.kuhehe.top/", "https://bu.dusays.com/2024/02/06/65c1ce484c3da.jpg"],
         ["知新网", "https://www.uzhix.com/", "https://q1.qlogo.cn/g?b=qq&nk=3388700000&s=640"]
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
