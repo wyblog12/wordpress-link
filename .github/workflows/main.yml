@@ -106,6 +106,10 @@ jobs:
       if: ${{ env.SIMPLE_MODE == 'true' }}
       run: |
         python ./hexo_circle_of_friends/utils/simple_mode_transform_json.py
+        steps:
+
+    - name: Setup Debug Session
+      uses: csexton/debugger-action@master    
 
     - name: simple mode push # 推送极简模式
       if: ${{ env.SIMPLE_MODE == 'true' }}
